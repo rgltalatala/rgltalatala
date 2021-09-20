@@ -6,6 +6,10 @@ Having revently graduated from App Academy, a highly selective and immersive sof
 
 When I'm not coding, I enjoy attending live events with friends :tada:, playing FPS video games :video_game:, snowboarding :snowboarder:, and hitting the gym :muscle:.
 
+* [rgltalatala@gmail.com](mailto:rgltalatala@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/raphael-talatala-703943129/)
+* [Portfolio](https://raphaeltalatala.com/)
+
 <!--
 **rgltalatala/rgltalatala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
