@@ -2,7 +2,7 @@
 
 My name is Raphael Talatala, but I typically go by Raph.  I am currently a software engineer with a previous background in hospitality and event marketing.   
 
-Having revently graduated from App Academy, a highly selective and immersive software engineering bootcamp, I am now able to create complex web applications using web development technologies such as Ruby on Rails, PostgreSQL, MongoDB, React, Redux, JavaScript, and much more.  
+Having recently graduated from App Academy, a highly selective and immersive software engineering bootcamp, I am now able to create complex web applications using web development technologies such as Ruby on Rails, PostgreSQL, MongoDB, React, Redux, JavaScript, and much more.  
 
 When I'm not coding, I enjoy attending live events with friends :tada:, playing FPS video games :video_game:, snowboarding :snowboarder:, and hitting the gym :muscle:.
 
